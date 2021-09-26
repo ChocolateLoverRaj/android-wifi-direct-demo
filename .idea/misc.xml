@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/activity_in_group.xml" value="0.264" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/activity_no_wifi.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/activity_permission_denied.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/group_device.xml" value="0.264" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Users/rajas/Documents/GitHub/android-wifi-direct-demo/app/src/main/res/layout/sample_loading_button.xml" value="0.12239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
